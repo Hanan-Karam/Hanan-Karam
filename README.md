@@ -3,7 +3,7 @@
 ### *I 💙 front-end web development*
 ### *Most of my focus goes to Javascript &React 👩‍💻*
 ### *I came from a business background 👔*
-### *I'm currently learning Angular Js 🌱*
+### *I'm currently learning Angular 🌱*
 
 # *Technologies I'm Using*
 
