@@ -1,21 +1,23 @@
 ![alt text](https://github.com/Hanan-Karam/Hanan-Karam/blob/main/header.png?raw=true)
 
 ### *I 💙 front-end web development*
-### *Most of my focus goes to Javascript &React 👩‍💻*
+### *Most of my focus goes to Javascript & Vue 👩‍💻*
 ### *I came from a business background 👔*
-### *I'm currently learning Angular 🌱*
+### *I'm currently learning more about backend tools, to be a full-stack developer 🌱*
 
 # *Technologies I'm Using*
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JQuery](https://img.shields.io/badge/-JQuery-%23282C34?style=flat-square&logo=jquery)
+![Vue](https://img.shields.io/badge/-Vue-%23282C34?style=flat-square&logo=vuedotjs)
+![Nuxt 3](https://img.shields.io/badge/-Nuxt%203-%23282C34?style=flat-square&logo=nuxtdotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%231a202c?style=flat-square&logo=bootstrap)
+![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Github](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
